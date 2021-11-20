@@ -1,2 +1,3 @@
 # hellow-world
-a first trial
+The first trial by Gordon
+20Nov
